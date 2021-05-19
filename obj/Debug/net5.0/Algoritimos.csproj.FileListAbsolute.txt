@@ -1,0 +1,15 @@
+/Users/warlei/Arquivos/projetos/loovi/Estrutura_de_dados/estruturaDeDados/Algoritimos/bin/Debug/net5.0/Algoritimos.deps.json
+/Users/warlei/Arquivos/projetos/loovi/Estrutura_de_dados/estruturaDeDados/Algoritimos/bin/Debug/net5.0/Algoritimos.runtimeconfig.json
+/Users/warlei/Arquivos/projetos/loovi/Estrutura_de_dados/estruturaDeDados/Algoritimos/bin/Debug/net5.0/Algoritimos.runtimeconfig.dev.json
+/Users/warlei/Arquivos/projetos/loovi/Estrutura_de_dados/estruturaDeDados/Algoritimos/bin/Debug/net5.0/Algoritimos.dll
+/Users/warlei/Arquivos/projetos/loovi/Estrutura_de_dados/estruturaDeDados/Algoritimos/bin/Debug/net5.0/ref/Algoritimos.dll
+/Users/warlei/Arquivos/projetos/loovi/Estrutura_de_dados/estruturaDeDados/Algoritimos/bin/Debug/net5.0/Algoritimos.pdb
+/Users/warlei/Arquivos/projetos/loovi/Estrutura_de_dados/estruturaDeDados/Algoritimos/obj/Debug/net5.0/Algoritimos.csprojAssemblyReference.cache
+/Users/warlei/Arquivos/projetos/loovi/Estrutura_de_dados/estruturaDeDados/Algoritimos/obj/Debug/net5.0/Algoritimos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/warlei/Arquivos/projetos/loovi/Estrutura_de_dados/estruturaDeDados/Algoritimos/obj/Debug/net5.0/Algoritimos.AssemblyInfoInputs.cache
+/Users/warlei/Arquivos/projetos/loovi/Estrutura_de_dados/estruturaDeDados/Algoritimos/obj/Debug/net5.0/Algoritimos.AssemblyInfo.cs
+/Users/warlei/Arquivos/projetos/loovi/Estrutura_de_dados/estruturaDeDados/Algoritimos/obj/Debug/net5.0/Algoritimos.csproj.CoreCompileInputs.cache
+/Users/warlei/Arquivos/projetos/loovi/Estrutura_de_dados/estruturaDeDados/Algoritimos/obj/Debug/net5.0/Algoritimos.dll
+/Users/warlei/Arquivos/projetos/loovi/Estrutura_de_dados/estruturaDeDados/Algoritimos/obj/Debug/net5.0/ref/Algoritimos.dll
+/Users/warlei/Arquivos/projetos/loovi/Estrutura_de_dados/estruturaDeDados/Algoritimos/obj/Debug/net5.0/Algoritimos.pdb
+/Users/warlei/Arquivos/projetos/loovi/Estrutura_de_dados/estruturaDeDados/Algoritimos/obj/Debug/net5.0/Algoritimos.genruntimeconfig.cache
