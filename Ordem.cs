@@ -31,6 +31,25 @@ namespace Algoritimos
                 var item = Array[i];
                 var currentIndex = i;
 
+                while (currentIndex > 0 && Array[currentIndex - 1] < item)
+                {
+                    Array[currentIndex] = Array[currentIndex - 1];
+                    currentIndex--;
+                }
+                Array[currentIndex] = item;
+            }
+
+            
+        }
+        public void OrdemCrescenteSimples(int[] Array)
+        {
+
+
+            for (int i = 0; i < Array.Length; i++)
+            {
+                var item = Array[i];
+                var currentIndex = i;
+
                 while (currentIndex > 0 && Array[currentIndex - 1] > item)
                 {
                     Array[currentIndex] = Array[currentIndex - 1];

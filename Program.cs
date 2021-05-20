@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Diagnostics;
 
 namespace Algoritimos
 {
@@ -8,27 +9,38 @@ namespace Algoritimos
     {
         static void Main(string[] args)
         {
-            List<int> InteiroA = new List<int>(){11, 22, 33, 44, 55, 66};
-            List<int> InteiroB = new List<int>(){10, 2, 30, 4, 50};
+            Stopwatch stopwatch = new Stopwatch();
+            stopwatch.Start();
 
-            List<int> Array = new List<int>();
+            gerarArray gerar = new gerarArray();
+            var indiceX = gerar.indiceAleatorio();
 
-            Somar somar = new Somar();
-            somar.SomarInteiros(InteiroA, InteiroB, Array);
+            int[] Array = new int[indiceX];
+            
+            
+            gerar.gerarArrayUnicoSimples(Array, indiceX);
 
-            Ordem ordenar = new Ordem();
-            ordenar.OrdemCrescente(InteiroA);
-            ordenar.OrdemDecrescente(InteiroB);
-
-            ordenar.OrdemCrescente(Array);
+          
             
 
+            Ordem ordenar = new Ordem();
+
+            ordenar.OrdemCrescenteSimples(Array);
+            
+            Console.WriteLine();
             int indice = 0;
             foreach (var item in Array)
             {
                 Console.Write($"[{Array[indice]}]" ) ; 
                 indice++;              
             }
+            stopwatch.Stop();
+            Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine(stopwatch.Elapsed);
+
+            
+
 
         }
     }
